@@ -7,3 +7,4 @@ Demo MyRadio Front-End Client using Backbone
 * Run through install and setup of API and run local server
 * cd into client's directory
 * run: ```ruby -run -e httpd . -p 9000```
+* view app on (http://localhost:9000)
